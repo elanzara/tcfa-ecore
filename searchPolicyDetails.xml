@@ -1,0 +1,1613 @@
+<OperationResultBusquedaPolizaB2B>
+    <AlternativaComercial>-20</AlternativaComercial>
+    <Policy>
+        <AdditionalNamedInsureds />
+        <AffinityGroupSub>
+            <AffinityGroupType>
+                <Code>Closed</Code>
+                <Description>Cerrado</Description>
+            </AffinityGroupType>
+            <DisplayName>Retencion Planes -  Toyota CFA</DisplayName>
+            <EndDate>1/1/0001 00:00:00</EndDate>
+            <PublicID>pc:4101</PublicID>
+            <StartDate>1/1/0001 00:00:00</StartDate>
+        </AffinityGroupSub>
+        <BillingFrecuencies />
+        <BrokerCollectionMaterials />
+        <Subtype>
+            <Code>Cancellation</Code>
+            <Description>Cancelación</Description>
+        </Subtype>
+        <Contacts>
+            <Contact>
+                <Activitystartdate>1/1/0001 00:00:00</Activitystartdate>
+                <Addresses>
+                    <Address>
+                        <updateLinkedAddresses>false</updateLinkedAddresses>
+                        <AddressLine1>RIO COLORADO</AddressLine1>
+                        <AddressLine2>0</AddressLine2>
+                        <AddressType>
+                            <Code>Ext_LegalAddress</Code>
+                            <Description>Domicilio Legal</Description>
+                        </AddressType>
+                        <City>VILLA ALLENDE</City>
+                        <Country>
+                            <Code>AR</Code>
+                            <Description>Argentina</Description>
+                        </Country>
+                        <County>000</County>
+                        <DisplayText>RIO COLORADO 619, Piso 0, VILLA ALLENDE, CÓRDOBA, 5105</DisplayText>
+                        <PolicyAddress>true</PolicyAddress>
+                        <PostalCode>5105</PostalCode>
+                        <PrimaryAddress>true</PrimaryAddress>
+                        <PublicID>pc:4241936</PublicID>
+                        <State>
+                            <Code>AR_03</Code>
+                            <Description>CÓRDOBA</Description>
+                        </State>
+                        <StreetNumber>619</StreetNumber>
+                    </Address>
+                </Addresses>
+                <AvailablePhoneNumbers>
+                    <Phone>
+                        <PhoneCountry />
+                        <PhoneType>
+                            <Code>work</Code>
+                            <Description>Laboral</Description>
+                        </PhoneType>
+                    </Phone>
+                    <Phone>
+                        <PhoneCountry />
+                        <PhoneType>
+                            <Code>Fax</Code>
+                            <Description>Fax</Description>
+                        </PhoneType>
+                    </Phone>
+                    <Phone>
+                        <PhoneCountry />
+                        <PhoneNumber>5126858</PhoneNumber>
+                        <PhoneType>
+                            <Code>home</Code>
+                            <Description>Particular</Description>
+                        </PhoneType>
+                    </Phone>
+                    <Phone>
+                        <PhoneCountry />
+                        <PhoneType>
+                            <Code>mobile</Code>
+                            <Description>Celular</Description>
+                        </PhoneType>
+                    </Phone>
+                </AvailablePhoneNumbers>
+                <CUIL>20-26448138-5</CUIL>
+                <ContactType>
+                    <Code>person</Code>
+                    <Description>Persona Física</Description>
+                </ContactType>
+                <DateOfBirth>13/4/1978 00:00:00</DateOfBirth>
+                <EmailAddress1>cristianlpzz@gmail.com</EmailAddress1>
+                <FirstName>CRISTIAN LEONARDO</FirstName>
+                <Gender>
+                    <Code>M</Code>
+                    <Description>Male</Description>
+                </Gender>
+                <InsuredNumberFormated>01-03-00675362</InsuredNumberFormated>
+                <LastName>LOPEZ</LastName>
+                <MaritalStatus>
+                    <Code>U</Code>
+                    <DisplayName>Desconocido</DisplayName>
+                </MaritalStatus>
+                <Name>LOPEZ CRISTIAN LEONARDO</Name>
+                <Nationality>
+                    <Code>AR</Code>
+                    <Description>Argentina</Description>
+                </Nationality>
+                <Occupation>
+                    <Code>000012</Code>
+                    <Description>SIN ACTIVIDAD ECONOMICA</Description>
+                </Occupation>
+                <OfficialIDType>
+                    <Code>Ext_DNI96</Code>
+                    <Description>D.N.I.</Description>
+                </OfficialIDType>
+                <PEP>false</PEP>
+                <PreferredSettlementCurrency>
+                    <Code>ars</Code>
+                    <Description>ARS</Description>
+                    <Selected>true</Selected>
+                </PreferredSettlementCurrency>
+                <PrimaryNamedInsured>true</PrimaryNamedInsured>
+                <PrimaryPhoneType />
+                <PublicID>pc:692951</PublicID>
+                <Resident>true</Resident>
+                <SchoolLevel>
+                    <Code>unidentified</Code>
+                    <Description>No Identificado</Description>
+                </SchoolLevel>
+                <TaxID>26448138</TaxID>
+                <TaxStatuses>
+                    <TaxStatus>
+                        <EnrollementStatus>
+                            <Code>final_cons</Code>
+                            <Description>Consumidor final</Description>
+                        </EnrollementStatus>
+                        <PublicID>pc:1049391</PublicID>
+                        <RetentionAgent>
+                            <Code>iva</Code>
+                            <Description>IVA</Description>
+                        </RetentionAgent>
+                        <StatusValue>20264481385</StatusValue>
+                        <TaxPercentage>0</TaxPercentage>
+                    </TaxStatus>
+                </TaxStatuses>
+                <UIFFormSubmitted>false</UIFFormSubmitted>
+            </Contact>
+        </Contacts>
+        <Country>
+            <Code>AR</Code>
+            <Description>Argentina</Description>
+        </Country>
+        <ExchangeRates />
+        <InsuredCapital>0</InsuredCapital>
+        <JobDate>1/1/0001 00:00:00</JobDate>
+        <MaillingAddress>
+            <updateLinkedAddresses>false</updateLinkedAddresses>
+            <AddressLine1>RIO COLORADO</AddressLine1>
+            <AddressLine2>0</AddressLine2>
+            <AddressType>
+                <Code>Ext_LegalAddress</Code>
+                <Description>Domicilio Legal</Description>
+            </AddressType>
+            <City>VILLA ALLENDE</City>
+            <Country>
+                <Code>AR</Code>
+                <Description>Argentina</Description>
+            </Country>
+            <County>000</County>
+            <DisplayText>1: RIO COLORADO 619, VILLA ALLENDE, CÓRDOBA</DisplayText>
+            <PolicyAddress>false</PolicyAddress>
+            <PostalCode>5105</PostalCode>
+            <PrimaryAddress>false</PrimaryAddress>
+            <PublicID>pc:26945657</PublicID>
+            <State>
+                <Code>AR_03</Code>
+                <Description>CÓRDOBA</Description>
+            </State>
+            <StreetNumber>619</StreetNumber>
+        </MaillingAddress>
+        <MaxAgeEntry>0</MaxAgeEntry>
+        <MaxAgeStayAdditional>0</MaxAgeStayAdditional>
+        <MaxAgeStayBasic>0</MaxAgeStayBasic>
+        <MaximaCompensation>0</MaximaCompensation>
+        <FirstPolicyDate>4/1/2018 12:00:00</FirstPolicyDate>
+        <RamoDescripcion>Automotores</RamoDescripcion>
+        <Ext_RamoSSN>
+            <Code>103001</Code>
+            <Description>103001 - Automoviles - Casco</Description>
+        </Ext_RamoSSN>
+        <Ext_PolicyType>
+            <Code>CA7_Car</Code>
+            <Description>CA7 Auto</Description>
+        </Ext_PolicyType>
+        <AccountNumber>01-01207238</AccountNumber>
+        <MinAgeEntry>0</MinAgeEntry>
+        <OrganizerAgents>
+            <ProducerCode>
+                <Code>05-007141</Code>
+                <OrganizationDisplayName>TOYOTA CIA. FINANCIERA DE ARGENTINA S.A.</OrganizationDisplayName>
+                <OrganizationPublicID>scorg:80307</OrganizationPublicID>
+                <PublicID>pc:20801</PublicID>
+                <Selected>true</Selected>
+            </ProducerCode>
+        </OrganizerAgents>
+        <PaymentFees>6</PaymentFees>
+        <PaymentFeesQuota />
+        <PaymentMethods>
+            <PaymentMethod>
+                <Description>Débito Directo</Description>
+                <IdentificationCode>directDebit</IdentificationCode>
+                <Selected>true</Selected>
+                <CBUTarjetaCredito>0150XXXXXXXXXXXXXX0680</CBUTarjetaCredito>
+            </PaymentMethod>
+        </PaymentMethods>
+        <PeriodEnd>19/7/2020 00:00:01</PeriodEnd>
+        <PeriodStart>19/1/2020 00:00:00</PeriodStart>
+        <PlaceOfDelivery />
+        <PolicyPeriodID>pc:16258271</PolicyPeriodID>
+        <PolicyTerms>
+            <PolicyTerm>
+                <Description>6 meses</Description>
+                <IdentificationCode>HalfYear</IdentificationCode>
+                <Selected>true</Selected>
+            </PolicyTerm>
+        </PolicyTerms>
+        <PreferredCoverageCurrencies>
+            <Currency>
+                <Code>ars</Code>
+                <Description>ARS</Description>
+                <Selected>true</Selected>
+            </Currency>
+        </PreferredCoverageCurrencies>
+        <PreferredSettlementCurrencies />
+        <ProducerAgent>
+            <Code>05-006948</Code>
+            <OrganizationDisplayName>TOYOTA BROKER DE SEGUROS ARGENTINA S.A.</OrganizationDisplayName>
+            <OrganizationPublicID>scorg:51101</OrganizationPublicID>
+            <PublicID>pcsc51515</PublicID>
+            <Selected>true</Selected>
+        </ProducerAgent>
+        <ProducerOfService>
+            <Code>05-006948</Code>
+            <OrganizationDisplayName>TOYOTA BROKER DE SEGUROS ARGENTINA S.A.</OrganizationDisplayName>
+            <OrganizationPublicID>scorg:51101</OrganizationPublicID>
+            <PublicID>pcsc51515</PublicID>
+            <Selected>true</Selected>
+        </ProducerOfService>
+        <ServiceOrganizer>
+            <Code>05-007141</Code>
+            <OrganizationDisplayName>TOYOTA CIA. FINANCIERA DE ARGENTINA S.A.</OrganizationDisplayName>
+            <OrganizationPublicID>scorg:80307</OrganizationPublicID>
+            <PublicID>pc:20801</PublicID>
+            <Selected>true</Selected>
+        </ServiceOrganizer>
+        <TripEndDate>1/1/0001 00:00:00</TripEndDate>
+        <TripStarDate>1/1/0001 00:00:00</TripStarDate>
+        <FacultativePolicy>false</FacultativePolicy>
+        <ProvisionalGuard>false</ProvisionalGuard>
+        <ChannelEntry>
+            <Code>PortalTD</Code>
+            <Description>Portal - TD</Description>
+        </ChannelEntry>
+        <TypeOfContractings />
+        <Status>
+            <Code>Bound</Code>
+            <Description>La póliza se ha contratado. Los trabajos de Cancelación, Emisión, Rehabilitación, Reescritura, Reescribir Cuenta Nueva, Solicitud y Modificación de Póliza establecen este estado</Description>
+        </Status>
+        <JobNumber>01-05-01-30179007-900</JobNumber>
+        <BranchNumber>1</BranchNumber>
+        <Offering />
+    </Policy>
+    <Updated>false</Updated>
+    <Vehicles>
+        <Vehicle>
+            <Accesories />
+            <AdditionalFuelType />
+            <AdditionalInterestContacts />
+            <AutomaticAdjust>
+                <Code>20</Code>
+                <Description>20%</Description>
+            </AutomaticAdjust>
+            <BrandCode>45</BrandCode>
+            <BrandName>TOYOTA</BrandName>
+            <Category>
+                <Code>DoubleCabPickup</Code>
+                <Description>Pickup A o doble cabina</Description>
+            </Category>
+            <Color>
+                <Code>Unspecified</Code>
+                <Description>Sin especificar</Description>
+            </Color>
+            <DeductibleValueDescription>2,5% 0Km</DeductibleValueDescription>
+            <EngineNumber>2GDC270888</EngineNumber>
+            <FuelType>
+                <Code>DIE</Code>
+                <Description>Diesel</Description>
+            </FuelType>
+            <GPSProvider />
+            <HasClaimComputableForBonusMalus>false</HasClaimComputableForBonusMalus>
+            <HasGPS>false</HasGPS>
+            <HasInspections>false</HasInspections>
+            <InfoAutoCode>450253</InfoAutoCode>
+            <Is0Km>false</Is0Km>
+            <IsPatentedAtArg>true</IsPatentedAtArg>
+            <IsTruck10TT100KM>false</IsTruck10TT100KM>
+            <Jurisdiction>
+                <Code>other</Code>
+                <Description>Otras Jurisdicciones</Description>
+            </Jurisdiction>
+            <LicensePlate>AC300PK</LicensePlate>
+            <ModelCode>14</ModelCode>
+            <ModelName>HILUX</ModelName>
+            <OriginCountry>
+                <Code>National</Code>
+                <Description>Nacional</Description>
+            </OriginCountry>
+            <OriginalCostNew>1921000.00</OriginalCostNew>
+            <OtherBrandName>TOYOTA</OtherBrandName>
+            <OtherModelName>HILUX</OtherModelName>
+            <OtherVersionName>2.4 DC 4X2 TDI SR L/16</OtherVersionName>
+            <PolicyOwnerIsInsured>false</PolicyOwnerIsInsured>
+            <PrimaryNamedInsured>LOPEZ CRISTIAN LEONARDO</PrimaryNamedInsured>
+            <ProductOffering>
+                <Code>CA7_D</Code>
+                <Description>D</Description>
+            </ProductOffering>
+            <PublicId>pc:17039613</PublicId>
+            <RiskLocation>
+                <City>VILLA ALLENDE</City>
+                <Country>
+                    <Code>AR</Code>
+                    <Description>Argentina</Description>
+                </Country>
+                <DisplayName>2: -, VILLA ALLENDE, CÓRDOBA</DisplayName>
+                <PostalCode>5105</PostalCode>
+                <PublicID>pc:26945658</PublicID>
+                <State>
+                    <Code>AR_03</Code>
+                    <Description>CÓRDOBA</Description>
+                </State>
+                <Street>-</Street>
+            </RiskLocation>
+            <ServiceType>
+                <Code>freeOffer</Code>
+                <Description>Oferta Libre</Description>
+            </ServiceType>
+            <StatedAmount>1470000.00</StatedAmount>
+            <TargetPremium>0.0</TargetPremium>
+            <TargetPremiumAfterTax>0.0</TargetPremiumAfterTax>
+            <Usage>
+                <Code>Personal</Code>
+                <Description>Particular</Description>
+            </Usage>
+            <VIN>8AJJB8DD3J4271458</VIN>
+            <VTVExpirationDate>1/1/0001 00:00:00</VTVExpirationDate>
+            <VehicleNumber>1</VehicleNumber>
+            <VersionCode>253</VersionCode>
+            <VersionName>2.4 DC 4X2 TDI SR L/16</VersionName>
+            <Year>2018</Year>
+            <CodigoInfoAuto>450253</CodigoInfoAuto>
+        </Vehicle>
+    </Vehicles>
+    <Locations />
+    <DataBank />
+    <ListReasonCancel>
+        <ReasonCancelDTO>
+            <ReasonCode>carrier5</ReasonCode>
+            <ReasonDescrip>Pago - Falta de pago</ReasonDescrip>
+            <CancellationDate>10/5/2021 18:07:20</CancellationDate>
+        </ReasonCancelDTO>
+    </ListReasonCancel>
+    <IMGoodsTransportPart>
+        <AdditionalCoverages />
+        <AdditionalInterestContacts />
+        <Coverages />
+        <IMVehicles />
+        <InsuresMerchandise>false</InsuresMerchandise>
+    </IMGoodsTransportPart>
+    <Coverages>
+        <ListCoverages>
+            <LsCoverages>
+                <Coverage>
+                    <DisplayText>Muerte e invalidez del conductor</DisplayText>
+                    <PublicID>CA7MuerteInvalidezConductorCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>MuerteInvalidezConductorLimitTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>ARS 30.000</DisplayText>
+                                    <PublicID>zikhmnl131lbc64jneubbph7nea</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Auto de Paseo - Carta Verde - Mercosur - (CO-EX 2.1)</DisplayText>
+                    <PublicID>CA73NoTransportadosAutoPaseoCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite Responsabilidad Civil 3° No transportados</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>NoTransportadosAutoPaseoPackageTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Muerte y daños personales Limites: U$S 40.000 por persona - U$S 200.000 por evento; Daños materiales - Limites: U$S 20.000 por persona - U$S 40.000 por evento</DisplayText>
+                                    <PublicID>zfph2sb4egurcabl71hsqs65g48</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Package</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Extensión cobertura de Robo/Hurto a Paises de Sudamérica que no forman parte del Mercosur - (CO-EX 4.1)</DisplayText>
+                    <PublicID>CA7COEX41</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Colombia, Ecuador, Guyana, Surinam y Venezuela</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>CA7COEX41DirectTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Se extiende la cobertura otorgada en la República Argentina</DisplayText>
+                                    <PublicID>zshg2ftq55l1basvl9819u2m8mb</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Extensión cobertura de Incendio a Paises de Sudamérica que no forman parte del Mercosur - (CO-EX 8.1)</DisplayText>
+                    <PublicID>CA7COEX81</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Colombia, Ecuador, Guyana, Surinam y Venezuela</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>CA7COEX81DirectTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Se extiende la cobertura otorgada en la República Argentina</DisplayText>
+                                    <PublicID>z8tjog05rln3e0u2dm958i5g04b</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Cristales Laterales Daño Incendio</DisplayText>
+                    <PublicID>CA7CristalesLateralesDanioIncendioCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zhvje87lui9086g1e7pgspl3dsb</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Sin Limite</DisplayText>
+                                    <PublicID>zv1hqpts65p0d3o4pr1hqenkkfb</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Daño Parcial Ante Robo Total</DisplayText>
+                    <PublicID>CA7DanoParcialRoboTotalCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>PartialDamageTotalTheftLimit</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>10%</DisplayText>
+                                    <PublicID>zkjhma8ds17gpb9stacni3f3vt8</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Importe Resultante</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z39igacj5qas83gb0gevnhuhs5b</PublicID>
+                            <TermOptions />
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Granizo</DisplayText>
+                    <PublicID>CA7GranizoCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zdegs3a1qqjf04lg33qfrb9ld48</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Sin Limite</DisplayText>
+                                    <PublicID>z4pj4cqj8vavvdqdfgicm523bm8</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Cerraduras daños e incendio</DisplayText>
+                    <PublicID>CA7CerradurasDaniosIncendioCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z6fi605v9o3j66itelihia0p5ca</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Sin Limite</DisplayText>
+                                    <PublicID>zrohmssidnc45d7e88u783kaudb</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>RC Vehiculo - Lesiones 3ros No Transportados</DisplayText>
+                    <PublicID>zesg0h6vm1ruk1iups7c7japckb</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms />
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>RC Vehiculo - Lesiones 3ros Transportados</DisplayText>
+                    <PublicID>z93gemft8lbp092mj8cdki47krb</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms />
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Inundación</DisplayText>
+                    <PublicID>CA7InundacionCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Importe Resultante</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>InundacionDeducible4Term</PublicID>
+                            <TermOptions />
+                            <Value>220500.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>ze7jk5df6jcfs7ofjm6oq355tgb</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>15%</DisplayText>
+                                    <PublicID>zdsh46s4g5ek9f998lhvn7scav9</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Incendio Total</DisplayText>
+                    <PublicID>CA7IncendioTotalCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>IncendioTotalLimitTerm</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Accidente Total</DisplayText>
+                    <PublicID>CA7AccidenteTotalCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>AccidenteTotalLimitTerm</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Extensión de la Cobertura de Incendio a Países de Sudamérica - (CO-EX 8.1)</DisplayText>
+                    <PublicID>zljisr8gr8fk6ef8o1t2jkfu7nb</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zghhi6g1gi7mq37p0ad68km6ck8</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Robo Total</DisplayText>
+                    <PublicID>CA7RoboTotalCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>RoboTotalLimitTerm</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>RC Vehiculo</DisplayText>
+                    <PublicID>CA7RcVehiculoCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>RcVehiculoLimitTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>10.000.000</DisplayText>
+                                    <PublicID>zigh4gs6qhblhco4jei3bdhtmqa</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Muerte e invalidez de familiares</DisplayText>
+                    <PublicID>CA7MuerteInvalidezFamiliaresCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zsnguscbq5t6n0925mo0mve67ub</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>30.000</DisplayText>
+                                    <PublicID>zr0j8ggev6unudpjp80mqgb6j48</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Reposicion Cubiertas</DisplayText>
+                    <PublicID>CA7ReposicionCubiertasCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>ReposicionCubiertasTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>No se aplica depreciación</DisplayText>
+                                    <PublicID>z14gq9ue86fhp222l9kcosuc799</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Extensión cobertura de Daños a Paises de Sudamérica que no forman parte del Mercosur - (CO-EX 6.1)</DisplayText>
+                    <PublicID>CA7COEX61</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Colombia, Ecuador, Guyana, Surinam y Venezuela</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>CA7COEX61DirectTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Se extiende la cobertura otorgada en la República Argentina</DisplayText>
+                                    <PublicID>zbfiis3232sdr5nau6gi9shpmpa</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Cristales Laterales Robo</DisplayText>
+                    <PublicID>CA7CristalesLateralesRoboCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>ztphc2aup7jlieihcqqt62i33r8</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Sin Limite</DisplayText>
+                                    <PublicID>z30hecafo7m3idjipndphq678g8</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Parabrisa Luneta</DisplayText>
+                    <PublicID>CA7ParabrisaLunetaCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z4njs3jj7kgkv55rmiu2ie38l48</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Sin Limite</DisplayText>
+                                    <PublicID>z0ihq05capj5u9mq0d7mntaape9</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Extensión de la Cobertura de Daños a Países de Sudamérica - (CO-EX 6.1)</DisplayText>
+                    <PublicID>zo6iejo5qicsqel5skjismudt59</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z32gunh3am7jg5sjkl6tcjrgdv8</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Cerraduras Robo</DisplayText>
+                    <PublicID>CA7CerradurasRoboCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Límite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zo8igp1ebgclnd3gvksggqjtjja</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Sin Limite</DisplayText>
+                                    <PublicID>z1qgcmek5h4o49f1qgbm6mbidqa</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Baja Vehiculo</DisplayText>
+                    <PublicID>CA7BajaVehiculoCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>BajaVehiculoLimitTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>$6.000</DisplayText>
+                                    <PublicID>zjjg0llek0rbef4dpf1ql9nkfua</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>RC Vehiculo - Cosas 3ros No Transportados</DisplayText>
+                    <PublicID>z6ohad900vgqa44huj9kd0ebgga</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms />
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Robo Parcial</DisplayText>
+                    <PublicID>CA7RoboPacrialCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>RoboParcialLimiteTerm</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Incendio Parcial</DisplayText>
+                    <PublicID>CA7IncendioParcialCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>IncencioParcialLimitTerm</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Extensión de las Coberturas de Robo o Hurto a Países de Sudamérica -(CO-EX 4.1)</DisplayText>
+                    <PublicID>zahgsop2vp1du53iaqlpr9k6bi9</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zdchchg0dt0vlalvh2a7lta4r1a</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Accidente Parcial</DisplayText>
+                    <PublicID>CA7AccidenteParcialCov</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limite</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>AccidenteParcialLimitTerm</PublicID>
+                            <TermOptions />
+                            <Value>1470000.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Modalidad Franquicia</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>AccidenteParcialDeducibleTypeTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Porcentual</DisplayText>
+                                    <PublicID>zl7i2mqrlvu6s4qp4l52kf6pak9</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Porcentaje Franquicia</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>AccidenteParcialDeduciblePorcentualTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>2,5% 0Km</DisplayText>
+                                    <PublicID>zuth8sb48nsa5fs5pg3qj46tegb</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Importe resultante</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>AccidenteParcialDeducible4Term</PublicID>
+                            <TermOptions />
+                            <Value>48025.0000</Value>
+                            <ValueTypeName>Direct</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Aeropuertos (CA-RC 5.1)</DisplayText>
+                    <PublicID>CA7AeropuertosCARC51</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limitación de la Cobertura de Responsabilidad Civil</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>OptionsClauses</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>$1.000.000 - Por Sublimite</DisplayText>
+                                    <PublicID>z1ohoauqamvs8ejh1rrqtpv3ku8</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Campos Petrolíferos (CA-RC 5.2)</DisplayText>
+                    <PublicID>CA7CamposPetroliferosCARC52</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Limitación de la Cobertura de Responsabilidad Civil</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>OptionsClausesOil</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>$1.000.000 - Por Sublímite</DisplayText>
+                                    <PublicID>z78h4ovqeunbser3im9m2u4jqd9</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Certámenes de regularidad</DisplayText>
+                    <PublicID>CA7CertamenesRegularidad</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms />
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Daño ambiental</DisplayText>
+                    <PublicID>CA7DanoAmbientalCond</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Cobertura de Daño Ambiental</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>CARC11</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>CA-RC 11.1</DisplayText>
+                                    <PublicID>zougm41is4h2ia1h2h7llalr65b</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Cobertura por Gastos de Remediación Ambiental</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>CA7CARC12EnvironmentalRemediationTerm</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>CA-RC 12.1 (comprendida)</DisplayText>
+                                    <PublicID>z5lgkmkmv8a9k55e6jej7umc709</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+                <Coverage>
+                    <DisplayText>Servicio de asistencia</DisplayText>
+                    <PublicID>z2mhs2mkm68991mj371b0pgs0t9</PublicID>
+                    <ToggleValue>true</ToggleValue>
+                    <VehiclePublicId>pc:17039613</VehiclePublicId>
+                    <CoverageTerms>
+                        <CoverageTerm>
+                            <DisplayText>Prestador</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z9ahmuhjnrrqnas3qfd2ntk38p8</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>IBERO ASISTENCIA</DisplayText>
+                                    <PublicID>z0ri8e4hvl8t9f7d7s5sgbco1m8</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Producto de asistencia</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z2fj0igr22pjlam2aqiod6pl2j8</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Superior</DisplayText>
+                                    <PublicID>z7liudn4rvi4rcp1rg2q4g79p8a</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Option</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Emergencia  mecánica</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zlniqqop3002m6k1mekd9ohvu5b</PublicID>
+                            <TermOptions />
+                            <Value>true</Value>
+                            <ValueTypeName>bit</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Asistencia al viajero</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>z47i4tigudshm4bj64i32898dl9</PublicID>
+                            <TermOptions />
+                            <Value>true</Value>
+                            <ValueTypeName>bit</ValueTypeName>
+                        </CoverageTerm>
+                        <CoverageTerm>
+                            <DisplayText>Servicio de asistencia</DisplayText>
+                            <Editable>false</Editable>
+                            <PublicID>zf7hof8b0qchv5kg3kq9jvk5nq8</PublicID>
+                            <TermOptions>
+                                <TermOption>
+                                    <DisplayText>Superior; 12 anuales; 2 mensuales; por accidente/avería 300 km lineales</DisplayText>
+                                    <PublicID>zu7jsqprmhfd0ca38fslhrn20va</PublicID>
+                                    <SelectedValue>true</SelectedValue>
+                                </TermOption>
+                            </TermOptions>
+                            <ValueTypeName>Package</ValueTypeName>
+                        </CoverageTerm>
+                    </CoverageTerms>
+                    <ScheduleItems />
+                    <VehicleNumber>1</VehicleNumber>
+                </Coverage>
+            </LsCoverages>
+        </ListCoverages>
+    </Coverages>
+    <Invoice>
+        <InvoiceDetailsList>
+            <InvoiceDetails>
+                <Amount>
+                    <Amount>6436.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$6.436,00</Description>
+                </Amount>
+                <AmountDue>
+                    <Amount>0.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$0,00</Description>
+                </AmountDue>
+                <InstallmentNumber>1</InstallmentNumber>
+                <InvoiceDate>19/1/2020 00:00:00</InvoiceDate>
+                <InvoiceDueDate>3/2/2020 00:00:00</InvoiceDueDate>
+                <InvoiceNumber>1026335213</InvoiceNumber>
+            </InvoiceDetails>
+            <InvoiceDetails>
+                <Amount>
+                    <Amount>6436.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$6.436,00</Description>
+                </Amount>
+                <AmountDue>
+                    <Amount>0.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$0,00</Description>
+                </AmountDue>
+                <InstallmentNumber>2</InstallmentNumber>
+                <InvoiceDate>1/3/2020 00:00:00</InvoiceDate>
+                <InvoiceDueDate>4/3/2020 00:00:00</InvoiceDueDate>
+                <InvoiceNumber>1026335214</InvoiceNumber>
+            </InvoiceDetails>
+            <InvoiceDetails>
+                <Amount>
+                    <Amount>6436.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$6.436,00</Description>
+                </Amount>
+                <AmountDue>
+                    <Amount>0.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$0,00</Description>
+                </AmountDue>
+                <InstallmentNumber>3</InstallmentNumber>
+                <InvoiceDate>1/4/2020 00:00:00</InvoiceDate>
+                <InvoiceDueDate>4/4/2020 00:00:00</InvoiceDueDate>
+                <InvoiceNumber>1026335215</InvoiceNumber>
+            </InvoiceDetails>
+            <InvoiceDetails>
+                <Amount>
+                    <Amount>6436.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$6.436,00</Description>
+                </Amount>
+                <AmountDue>
+                    <Amount>0.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$0,00</Description>
+                </AmountDue>
+                <InstallmentNumber>4</InstallmentNumber>
+                <InvoiceDate>1/5/2020 00:00:00</InvoiceDate>
+                <InvoiceDueDate>4/5/2020 00:00:00</InvoiceDueDate>
+                <InvoiceNumber>1026335216</InvoiceNumber>
+            </InvoiceDetails>
+            <InvoiceDetails>
+                <Amount>
+                    <Amount>6436.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$6.436,00</Description>
+                </Amount>
+                <AmountDue>
+                    <Amount>0.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$0,00</Description>
+                </AmountDue>
+                <InstallmentNumber>5</InstallmentNumber>
+                <InvoiceDate>1/6/2020 00:00:00</InvoiceDate>
+                <InvoiceDueDate>4/6/2020 00:00:00</InvoiceDueDate>
+                <InvoiceNumber>1026335217</InvoiceNumber>
+            </InvoiceDetails>
+            <InvoiceDetails>
+                <Amount>
+                    <Amount>6431.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$6.431,00</Description>
+                </Amount>
+                <AmountDue>
+                    <Amount>0.00</Amount>
+                    <Currency>ars</Currency>
+                    <Description>$0,00</Description>
+                </AmountDue>
+                <InstallmentNumber>6</InstallmentNumber>
+                <InvoiceDate>1/7/2020 00:00:00</InvoiceDate>
+                <InvoiceDueDate>4/7/2020 00:00:00</InvoiceDueDate>
+                <InvoiceNumber>1026335218</InvoiceNumber>
+            </InvoiceDetails>
+        </InvoiceDetailsList>
+        <PaidAmount>
+            <Amount>32180.00</Amount>
+            <Currency>ars</Currency>
+            <Description>$32.180,00</Description>
+        </PaidAmount>
+        <TotalCharges>
+            <Amount>38611.00</Amount>
+            <Currency>ars</Currency>
+            <Description>$38.611,00</Description>
+        </TotalCharges>
+        <UnappliedFundsBalance>
+            <Amount>0.00</Amount>
+            <Currency>ars</Currency>
+            <Description>$0,00</Description>
+        </UnappliedFundsBalance>
+        <WrittenOffBalance>
+            <Amount>0.00</Amount>
+            <Currency>ars</Currency>
+            <Description>$0,00</Description>
+        </WrittenOffBalance>
+    </Invoice>
+    <Payments>
+        <PaymentsHistory>
+            <Currency>ars</Currency>
+            <DistributedDate>13/6/2020 03:00:00</DistributedDate>
+            <ReversedDate>1/1/0001 00:00:00</ReversedDate>
+            <InvoiceDueDate>4/6/2020 03:00:00</InvoiceDueDate>
+            <Ext_ApplicationDate>16/6/2020 19:24:52</Ext_ApplicationDate>
+            <InvoiceItem>03/06/2020 ($1.661,46)</InvoiceItem>
+            <Charge>Prima</Charge>
+            <Origin>Rapipago</Origin>
+            <OperationNumber>010000005706</OperationNumber>
+            <ImportConvert>12872.00 ars</ImportConvert>
+            <Reversed>false</Reversed>
+            <PaymentAmount>12872.00 ars</PaymentAmount>
+        </PaymentsHistory>
+        <PaymentsHistory>
+            <Currency>ars</Currency>
+            <DistributedDate>29/4/2020 03:00:00</DistributedDate>
+            <ReversedDate>1/1/0001 00:00:00</ReversedDate>
+            <InvoiceDueDate>4/4/2020 03:00:00</InvoiceDueDate>
+            <Ext_ApplicationDate>29/4/2020 04:45:58</Ext_ApplicationDate>
+            <InvoiceItem>03/04/2020 ($4.774,54)</InvoiceItem>
+            <Charge>Prima</Charge>
+            <Origin>Débito Directo</Origin>
+            <OperationNumber>050000004350</OperationNumber>
+            <ImportConvert>6436.00 ars</ImportConvert>
+            <Reversed>false</Reversed>
+            <PaymentAmount>6436.00 ars</PaymentAmount>
+        </PaymentsHistory>
+        <PaymentsHistory>
+            <Currency>ars</Currency>
+            <DistributedDate>14/3/2020 03:00:00</DistributedDate>
+            <ReversedDate>1/1/0001 00:00:00</ReversedDate>
+            <InvoiceDueDate>4/3/2020 03:00:00</InvoiceDueDate>
+            <Ext_ApplicationDate>14/3/2020 03:14:19</Ext_ApplicationDate>
+            <InvoiceItem>03/03/2020 ($1.661,46)</InvoiceItem>
+            <Charge>Prima</Charge>
+            <Origin>Débito Directo</Origin>
+            <OperationNumber>050000003644</OperationNumber>
+            <ImportConvert>6436.00 ars</ImportConvert>
+            <Reversed>false</Reversed>
+            <PaymentAmount>6436.00 ars</PaymentAmount>
+        </PaymentsHistory>
+        <PaymentsHistory>
+            <Currency>ars</Currency>
+            <DistributedDate>15/2/2020 03:00:00</DistributedDate>
+            <ReversedDate>1/1/0001 00:00:00</ReversedDate>
+            <InvoiceDueDate>3/2/2020 03:00:00</InvoiceDueDate>
+            <Ext_ApplicationDate>15/2/2020 03:38:19</Ext_ApplicationDate>
+            <InvoiceItem>03/02/2020 ($1.661,46)</InvoiceItem>
+            <Charge>Prima</Charge>
+            <Origin>Débito Directo</Origin>
+            <OperationNumber>050000003248</OperationNumber>
+            <ImportConvert>6436.00 ars</ImportConvert>
+            <Reversed>false</Reversed>
+            <PaymentAmount>6436.00 ars</PaymentAmount>
+        </PaymentsHistory>
+        <PaymentsHistory>
+            <Currency>ars</Currency>
+            <DistributedDate>10/5/2021 18:07:30</DistributedDate>
+            <ReversedDate>1/1/0001 00:00:00</ReversedDate>
+            <InvoiceDueDate>1/1/0001 00:00:00</InvoiceDueDate>
+            <Ext_ApplicationDate>10/5/2021 18:07:30</Ext_ApplicationDate>
+            <Origin>Amortización - Incobrable por proceso de morosidad</Origin>
+            <OperationNumber>1000068413-4693</OperationNumber>
+            <ImportConvert>3373.00 ars</ImportConvert>
+            <Reversed>false</Reversed>
+            <PaymentAmount>3373.00 ars</PaymentAmount>
+        </PaymentsHistory>
+    </Payments>
+    <Siniestros />
+    <Transactions>
+        <Transaction>
+            <CloseDate>16/1/2020 18:43:08</CloseDate>
+            <ContactAddress>RIO COLORADO 619, Piso 0, VILLA ALLENDE, CÓRDOBA, 5105</ContactAddress>
+            <ContactAddressType>Ext_LegalAddress</ContactAddressType>
+            <ContactName>LOPEZ CRISTIAN LEONARDO</ContactName>
+            <EditEffectiveDate>19/1/2020 03:00:00</EditEffectiveDate>
+            <TransactionDate>8/1/2020 13:08:26</TransactionDate>
+            <Ext_GetCommissionOrg>5442.28</Ext_GetCommissionOrg>
+            <Ext_GetCommissionProd>2640.94</Ext_GetCommissionProd>
+            <JobNumber>01-05-01-30179007-0</JobNumber>
+            <PeriodEnd>19/7/2020 03:00:01</PeriodEnd>
+            <PeriodStart>19/1/2020 03:00:00</PeriodStart>
+            <PolicyNumber>01-05-01-30179007</PolicyNumber>
+            <PremiumDetails>
+                <PremiumDetail>
+                    <ActualAmount>0</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>Ingresos Brutos</Ext_TaxType>
+                    <TaxTypeName>Ingresos Brutos</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>1059.81</ActualAmount>
+                    <Basis>28643.57</Basis>
+                    <Ext_TaxType>FinancialFee</Ext_TaxType>
+                    <TaxTypeName>Recargo Financiero</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>6237.71</ActualAmount>
+                    <Basis>29703.38</Basis>
+                    <Ext_TaxType>IVA</Ext_TaxType>
+                    <TaxTypeName>IVA</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>0</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>IVAAcrecentado</Ext_TaxType>
+                    <TaxTypeName>IVA Acrecentado</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>464.86</ActualAmount>
+                    <Basis>29703.38</Basis>
+                    <Ext_TaxType>TasaSSN</Ext_TaxType>
+                    <TaxTypeName>Tasa SSN</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>148.52</ActualAmount>
+                    <Basis>29703.38</Basis>
+                    <Ext_TaxType>ServSoc</Ext_TaxType>
+                    <TaxTypeName>Servicios Sociales</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>29.7</ActualAmount>
+                    <Basis>29703.38</Basis>
+                    <Ext_TaxType>Interno</Ext_TaxType>
+                    <TaxTypeName>Impuesto Interno</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>297.03</ActualAmount>
+                    <Basis>29703.38</Basis>
+                    <Ext_TaxType>Sellado</Ext_TaxType>
+                    <TaxTypeName>Sellado</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>297.03</ActualAmount>
+                    <Basis>29703.38</Basis>
+                    <Ext_TaxType>SegVial</Ext_TaxType>
+                    <TaxTypeName>Tasa Seguridad Vial</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>1432.18</ActualAmount>
+                    <Basis>28643.57</Basis>
+                    <Ext_TaxType>ContingencyFund</Ext_TaxType>
+                    <TaxTypeName>Fondo de Previsión</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>0</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>percepTSeHLaPlata</Ext_TaxType>
+                    <TaxTypeName>Perc. TSeH La Plata</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>0.59</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>EspecialServices</Ext_TaxType>
+                    <TaxTypeName>EspecialServices</TaxTypeName>
+                </PremiumDetail>
+            </PremiumDetails>
+            <Status>Bound</Status>
+            <Subtype>Submission</Subtype>
+            <SubtypeDescription>Emisión</SubtypeDescription>
+            <TotalCostRPT>38611</TotalCostRPT>
+            <TotalPremiumRPT>28643.57</TotalPremiumRPT>
+            <VehicleDetails>
+                <VehicleSummary>
+                    <CA7Make>TOYOTA</CA7Make>
+                    <Ca7year>2018</Ca7year>
+                    <Ext_Category>DoubleCabPickup</Ext_Category>
+                    <Ext_CategoryDescription>Pickup A o doble cabina</Ext_CategoryDescription>
+                    <Ext_PatentedAtArg>false</Ext_PatentedAtArg>
+                    <Ext_ProductOffering>CA7_D</Ext_ProductOffering>
+                    <Ext_ProductOfferingDescription>D</Ext_ProductOfferingDescription>
+                    <Ext_VTVExpiration>1/1/0001 00:00:00</Ext_VTVExpiration>
+                    <Ext_VersionDesc>2.4 DC 4X2 TDI SR L/16</Ext_VersionDesc>
+                    <LicensePlate>AC300PK</LicensePlate>
+                    <Model>HILUX</Model>
+                    <VIN>8AJJB8DD3J4271458</VIN>
+                    <VehicleCost>0</VehicleCost>
+                    <VehicleNumber>1</VehicleNumber>
+                    <GaragingLocation>2: -, VILLA ALLENDE, CÓRDOBA</GaragingLocation>
+                    <Premium>28643.57</Premium>
+                    <UntilDate>1/1/0001 00:00:00</UntilDate>
+                    <FromDate>1/1/0001 00:00:00</FromDate>
+                </VehicleSummary>
+            </VehicleDetails>
+            <Rounded>0</Rounded>
+            <TransactionCostRPT>38611</TransactionCostRPT>
+            <TransactionPremiumRPT>28643.57</TransactionPremiumRPT>
+        </Transaction>
+        <Transaction>
+            <CloseDate>10/5/2021 18:07:22</CloseDate>
+            <ContactAddress>RIO COLORADO 619, Piso 0, VILLA ALLENDE, CÓRDOBA, 5105</ContactAddress>
+            <ContactAddressType>Ext_LegalAddress</ContactAddressType>
+            <ContactName>LOPEZ CRISTIAN LEONARDO</ContactName>
+            <EditEffectiveDate>4/7/2020 03:00:01</EditEffectiveDate>
+            <TransactionDate>12/8/2020 04:43:21</TransactionDate>
+            <Ext_GetCommissionOrg>-448.53</Ext_GetCommissionOrg>
+            <Ext_GetCommissionProd>-217.66</Ext_GetCommissionProd>
+            <JobNumber>01-05-01-30179007-900</JobNumber>
+            <PeriodEnd>19/7/2020 03:00:01</PeriodEnd>
+            <PeriodStart>19/1/2020 03:00:00</PeriodStart>
+            <PolicyNumber>01-05-01-30179007</PolicyNumber>
+            <PremiumDetails>
+                <PremiumDetail>
+                    <ActualAmount>0</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>Ingresos Brutos</Ext_TaxType>
+                    <TaxTypeName>Ingresos Brutos</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>972.47</ActualAmount>
+                    <Basis>26282.86</Basis>
+                    <Ext_TaxType>FinancialFee</Ext_TaxType>
+                    <TaxTypeName>Recargo Financiero</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>5723.62</ActualAmount>
+                    <Basis>27255.33</Basis>
+                    <Ext_TaxType>IVA</Ext_TaxType>
+                    <TaxTypeName>IVA</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>0</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>IVAAcrecentado</Ext_TaxType>
+                    <TaxTypeName>IVA Acrecentado</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>426.55</ActualAmount>
+                    <Basis>27255.33</Basis>
+                    <Ext_TaxType>TasaSSN</Ext_TaxType>
+                    <TaxTypeName>Tasa SSN</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>136.28</ActualAmount>
+                    <Basis>27255.33</Basis>
+                    <Ext_TaxType>ServSoc</Ext_TaxType>
+                    <TaxTypeName>Servicios Sociales</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>27.26</ActualAmount>
+                    <Basis>27255.33</Basis>
+                    <Ext_TaxType>Interno</Ext_TaxType>
+                    <TaxTypeName>Impuesto Interno</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>397.03</ActualAmount>
+                    <Basis>27255.33</Basis>
+                    <Ext_TaxType>Sellado</Ext_TaxType>
+                    <TaxTypeName>Sellado</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>272.55</ActualAmount>
+                    <Basis>27255.33</Basis>
+                    <Ext_TaxType>SegVial</Ext_TaxType>
+                    <TaxTypeName>Tasa Seguridad Vial</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>1314.14</ActualAmount>
+                    <Basis>26282.86</Basis>
+                    <Ext_TaxType>ContingencyFund</Ext_TaxType>
+                    <TaxTypeName>Fondo de Previsión</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>0</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>percepTSeHLaPlata</Ext_TaxType>
+                    <TaxTypeName>Perc. TSeH La Plata</TaxTypeName>
+                </PremiumDetail>
+                <PremiumDetail>
+                    <ActualAmount>0.24</ActualAmount>
+                    <Basis>0</Basis>
+                    <Ext_TaxType>EspecialServices</Ext_TaxType>
+                    <TaxTypeName>EspecialServices</TaxTypeName>
+                </PremiumDetail>
+            </PremiumDetails>
+            <Status>Bound</Status>
+            <Subtype>Cancellation</Subtype>
+            <SubtypeDescription>Cancelación</SubtypeDescription>
+            <TotalCostRPT>35553</TotalCostRPT>
+            <TotalPremiumRPT>26282.86</TotalPremiumRPT>
+            <VehicleDetails>
+                <VehicleSummary>
+                    <CA7Make>TOYOTA</CA7Make>
+                    <Ca7year>2018</Ca7year>
+                    <Ext_Category>DoubleCabPickup</Ext_Category>
+                    <Ext_CategoryDescription>Pickup A o doble cabina</Ext_CategoryDescription>
+                    <Ext_PatentedAtArg>false</Ext_PatentedAtArg>
+                    <Ext_ProductOffering>CA7_D</Ext_ProductOffering>
+                    <Ext_ProductOfferingDescription>D</Ext_ProductOfferingDescription>
+                    <Ext_VTVExpiration>1/1/0001 00:00:00</Ext_VTVExpiration>
+                    <Ext_VersionDesc>2.4 DC 4X2 TDI SR L/16</Ext_VersionDesc>
+                    <LicensePlate>AC300PK</LicensePlate>
+                    <Model>HILUX</Model>
+                    <VIN>8AJJB8DD3J4271458</VIN>
+                    <VehicleCost>0</VehicleCost>
+                    <VehicleNumber>1</VehicleNumber>
+                    <GaragingLocation>2: -, VILLA ALLENDE, CÓRDOBA</GaragingLocation>
+                    <Premium>26282.86</Premium>
+                    <UntilDate>1/1/0001 00:00:00</UntilDate>
+                    <FromDate>1/1/0001 00:00:00</FromDate>
+                </VehicleSummary>
+            </VehicleDetails>
+            <Rounded>0</Rounded>
+            <TransactionCostRPT>-3058</TransactionCostRPT>
+            <TransactionPremiumRPT>-2360.71</TransactionPremiumRPT>
+        </Transaction>
+    </Transactions>
+    <GLExposures />
+    <IMHullAircrafts />
+    <IMContractorsEquipments />
+    <GLCoverage>
+        <AdditionalCoverages />
+        <AdditionalInsuredContacts />
+        <AdditionalInterestContacts />
+        <Conditions />
+        <Coverages />
+        <Exclusions />
+        <RetroactivityDate>1/1/0001 00:00:00</RetroactivityDate>
+    </GLCoverage>
+    <HasError>false</HasError>
+    <HasWarning>false</HasWarning>
+    <HasInformation>false</HasInformation>
+    <Messages />
+</OperationResultBusquedaPolizaB2B>
