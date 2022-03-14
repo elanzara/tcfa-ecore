@@ -84,26 +84,26 @@ namespace eCore.Services
                 DateTime fechaHoraActualMenos1Hora = DateTime.Now.AddHours(-1);
 
                 /*Validar AD*/
-                try
-                {
-                    DirectoryEntry entry = new DirectoryEntry("WinNT://toyotacfa.com.ar", username, password);//, System.DirectoryServices.AuthenticationTypes.ReadonlyServer
-                    //msj = entry.;
-                    //return null;
-                    object nativeObject = entry.NativeObject;
-                    //msj = entry.ToString();
-                    //return null;
-                    //msj = "Validado OK";
-                    //return null;
-                }
-                catch (DirectoryServicesCOMException dse)
-                {
-                    msj = "NO Validado por DirectoryServicesCOMException: " + dse.Message + " - " + dse.ExtendedErrorMessage + " - " + dse.ErrorCode + " - " + dse.ExtendedError;
-                    return null;
-                }
-                catch (Exception ex)
-                {
-                    msj = "NO Validado por Exception: " + ex.Message + " - " + ex.ToString();
-                }
+                //try
+                //{
+                //    DirectoryEntry entry = new DirectoryEntry("WinNT://toyotacfa.com.ar", username, password);//, System.DirectoryServices.AuthenticationTypes.ReadonlyServer
+                //    //msj = entry.;
+                //    //return null;
+                //    object nativeObject = entry.NativeObject;
+                //    //msj = entry.ToString();
+                //    //return null;
+                //    //msj = "Validado OK";
+                //    //return null;
+                //}
+                //catch (DirectoryServicesCOMException dse)
+                //{
+                //    msj = "NO Validado por DirectoryServicesCOMException: " + dse.Message + " - " + dse.ExtendedErrorMessage + " - " + dse.ErrorCode + " - " + dse.ExtendedError;
+                //    return null;
+                //}
+                //catch (Exception ex)
+                //{
+                //    msj = "NO Validado por Exception: " + ex.Message + " - " + ex.ToString();
+                //}
                 /*Fin Validar AD*/
 
                 var AccUser = _context.AccUsuarios.SingleOrDefault(x => x.AdCuenta == username);

@@ -65,6 +65,57 @@ namespace eCore.Context
         public virtual DbSet<SomDetalleCoberturas> SomDetalleCoberturas { get; set; }
         public virtual DbSet<MapCodigoConexion> MapCodigoConexion { get; set; }
         public virtual DbSet<CodigoProductor> CodigoProductor { get; set; }
+        public virtual DbSet<ScriPolizab2b> ScriPolizab2b { get; set; }
+        public virtual DbSet<ScriPolicy> ScriPolicy { get; set; }
+        public virtual DbSet<ScriAffinityGroupSub> ScriAffinityGroupSub { get; set; }
+        public virtual DbSet<ScriAffinityGroupType> ScriAffinityGroupType { get; set; }
+        public virtual DbSet<ScriSubtype> ScriSubtype { get; set; }
+        public virtual DbSet<ScriContact> ScriContact { get; set; }
+        public virtual DbSet<ScriAddress> ScriAddress { get; set; }
+        public virtual DbSet<ScriAddressType> ScriAddressType { get; set; }
+        public virtual DbSet<ScriAddressCountry> ScriAddressCountry { get; set; }
+        public virtual DbSet<ScriState> ScriState { get; set; }
+        public virtual DbSet<ScriPhone> ScriPhone { get; set; }
+        public virtual DbSet<ScriPhoneType> ScriPhoneType { get; set; }
+        public virtual DbSet<ScriContactType> ScriContactType { get; set; }
+        public virtual DbSet<ScriGender> ScriGender { get; set; }
+        public virtual DbSet<ScriMaritalStatus> ScriMaritalStatus { get; set; }
+        public virtual DbSet<ScriNationality> ScriNationality { get; set; }
+        public virtual DbSet<ScriOccupation> ScriOccupation { get; set; }
+        public virtual DbSet<ScriOfficialIDType> ScriOfficialIDType { get; set; }
+        public virtual DbSet<ScriPreferredSettlementCurrency> ScriPreferredSettlementCurrency { get; set; }
+        public virtual DbSet<ScriSchoolLevel> ScriSchoolLevel { get; set; }
+        public virtual DbSet<ScriCountry> ScriCountry { get; set; }
+        public virtual DbSet<ScriMaillingAddress> ScriMaillingAddress { get; set; }
+        public virtual DbSet<ScriTaxStatus> ScriTaxStatus { get; set; }
+        public virtual DbSet<ScriEnrollementStatus> ScriEnrollementStatus { get; set; }
+        public virtual DbSet<ScriRetentionAgent> ScriRetentionAgent { get; set; }
+        public virtual DbSet<ScriMaillingAddressAddressType> ScriMaillingAddressAddressType { get; set; }
+        public virtual DbSet<ScriMaillingAddressCountry> ScriMaillingAddressCountry { get; set; }
+        public virtual DbSet<ScriMaillingAddressState> ScriMaillingAddressState { get; set; }
+        public virtual DbSet<ScriExt_RamoSSN> ScriExt_RamoSSN { get; set; }
+        public virtual DbSet<ScriExt_PolicyType> ScriExt_PolicyType { get; set; }
+        public virtual DbSet<ScriProducerCode> ScriProducerCode { get; set; }
+        public virtual DbSet<ScriPaymentMethod> ScriPaymentMethod { get; set; }
+        public virtual DbSet<ScriPolicyTerm> ScriPolicyTerm { get; set; }
+        public virtual DbSet<ScriCurrency> ScriCurrency { get; set; }
+        public virtual DbSet<ScriProducerAgent> ScriProducerAgent { get; set; }
+        public virtual DbSet<ScriProducerOfService> ScriProducerOfService { get; set; }
+        public virtual DbSet<ScriServiceOrganizer> ScriServiceOrganizer { get; set; }
+        public virtual DbSet<ScriChannelEntry> ScriChannelEntry { get; set; }
+        public virtual DbSet<ScriStatus> ScriStatus { get; set; }
+        public virtual DbSet<ScriVehicle> ScriVehicle { get; set; }
+        public virtual DbSet<ScriAutomaticAdjust> ScriAutomaticAdjust { get; set; }
+        public virtual DbSet<ScriCategory> ScriCategory { get; set; }
+        public virtual DbSet<ScriColor> ScriColor { get; set; }
+        public virtual DbSet<ScriFuelType> ScriFuelType { get; set; }
+        public virtual DbSet<ScriJurisdiction> ScriJurisdiction { get; set; }
+        public virtual DbSet<ScriOriginCountry> ScriOriginCountry { get; set; }
+        public virtual DbSet<ScriProductOffering> ScriProductOffering { get; set; }
+        public virtual DbSet<ScriRiskLocation> ScriRiskLocation { get; set; }
+        public virtual DbSet<ScriUsage> ScriUsage { get; set; }
+        public virtual DbSet<ScriReasonCancelDTO> ScriReasonCancelDTO { get; set; }
+        
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -119,7 +170,57 @@ namespace eCore.Context
             modelBuilder.ApplyConfiguration(new SomDetalleCoberturasConfiguration());
             modelBuilder.ApplyConfiguration(new MapCodigoConexionConfiguration());
             modelBuilder.ApplyConfiguration(new CodigoProductorConfiguration());
-
+            modelBuilder.ApplyConfiguration(new ScriPolizab2bConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriPolicyConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriAffinityGroupSubConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriAffinityGroupTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriSubtypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriContactConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriAddressConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriAddressTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriAddressCountryConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriStateConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriPhoneConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriPhoneTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriContactTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriGenderConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriMaritalStatusConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriNationalityConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriOccupationConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriOfficialIDTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriPreferredSettlementCurrencyConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriSchoolLevelConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriCountryConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriMaillingAddressConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriTaxStatusConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriEnrollementStatusConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriRetentionAgentConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriMaillingAddressAddressTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriMaillingAddressCountryConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriMaillingAddressStateConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriExt_RamoSSNConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriExt_PolicyTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriProducerCodeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriPaymentMethodConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriPolicyTermConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriCurrencyConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriProducerAgentConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriProducerOfServiceConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriServiceOrganizerConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriChannelEntryConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriStatusConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriVehicleConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriAutomaticAdjustConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriCategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriColorConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriFuelTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriJurisdictionConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriOriginCountryConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriProductOfferingConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriRiskLocationConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriUsageConfiguration());
+            modelBuilder.ApplyConfiguration(new ScriReasonCancelDTOConfiguration());
+            
         }
     }
 }
